@@ -1,0 +1,5 @@
+include ':app'
+rootProject.name = "livebus"
+include ':annotation'
+include ':core'
+include ':compiler'
